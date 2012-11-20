@@ -17,3 +17,8 @@ For example
   </tr>
 </table>
 
+# TODO
+
++ Try to take folders
++ Get RegEx input of the format of the image file name
++ Detect and convert image file type accordingly, not only copy but read images and write images
